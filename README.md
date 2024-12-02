@@ -13,7 +13,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodcerqcsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/cerqueiracesar.r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/cerqueiracesar.r" target="blank">
+    <img align="center" src="https://img.icons8.com/ios/452/instagram-new.png" alt="Instagram" height="30" width="30" />
+  </a>
+  <a href="https://youtube.com/@cerqueiracesar90" target="blank">
+    <img align="center" src="https://img.icons8.com/ios/452/youtube.png" alt="YouTube" height="30" width="30" />
+  </a>
 </p>
 
 ---
