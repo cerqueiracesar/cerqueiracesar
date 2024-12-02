@@ -12,14 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodcerqcsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/cerqueiracesar.r" target="blank">
-    <img align="center" src="https://img.icons8.com/ios/452/instagram-new.png" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://youtube.com/@cerqueiracesar90" target="blank">
-    <img align="center" src="https://img.icons8.com/ios/452/youtube.png" alt="YouTube" height="30" width="30" />
-  </a>
-</p>
+<a href="https://www.youtube.com/cerqueiracesar90" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/cerqueiracesar.r" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rodcerqcsar" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
