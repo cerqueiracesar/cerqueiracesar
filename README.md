@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerqueiracesar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 I’m currently learning **Data Modeling, TypeScript, and SFRA**.
-- 💬 Ask me about **automation workflows, web development, and software architecture**.
+- 🌱 I’m currently learning **Data Modeling, Node.js, and SFRA**.
+- 💬 Ask me about **automation workflows, web servers, and software architecture**.
 - 📫 Reach me via **[Email](mailto:rodjncsar@gmail.com)**.
 - ⚡ Fun Fact: **I’m an engineer who loves sci-fi, martial arts, and eco-friendly innovations**.
 
