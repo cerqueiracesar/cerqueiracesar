@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá Ⓐ🏴‍☠️, eu sou Rodrigo Cunha de Cerqueira César</h1>
+  <h1>OlⒶ, eu sou Rodrigo Cunha de Cerqueira César 🏴‍☠️</h1>
   <h3>Explorando Tecnologia, Automação e Soluções Sustentáveis</h3>
 </div>
 
@@ -10,9 +10,9 @@
 <br>
 
 - 🚀 Atualmente aprofundando meus conhecimentos em **Arquitetura de Software, IoT e Modelagem de Dados**.
-- 💬 Vamos conversar sobre **Fluxos de Automação, Servidores Web e Sistemas Embarcados**.
+- 💬 Vamos conversar sobre **Automação de Redes, Servidores Web e Sistemas Embarcados**.
 - 📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
-- ⚡ Curiosidade: Engenheiro, apaixonado por ficção científica, artes marciais e tecnologia sustentável.
+- ⚡ Curiosidade: Engenheiro, artista marcial, apaixonado por ficção científica e tecnologias sustentáveis.
 
 ---
 
@@ -42,7 +42,7 @@
     <tr align="center">
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /><br>C++</td>
       <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" alt="n8n" /><br>n8n</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /><br>GitHub</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" /><br>Linux</td>
     </tr>
   </table>
 </div>
