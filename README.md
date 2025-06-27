@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>💻🌱 🛰️📡👻🐚</h1>
-  <h1>Olá 👋, eu sou Rodrigo Cunha de Cerqueira César</h1>
+  <h1>Olá Ⓐ🏴‍☠️, eu sou Rodrigo Cunha de Cerqueira César</h1>
   <h3>Explorando Tecnologia, Automação e Soluções Sustentáveis</h3>
 </div>
 
@@ -17,8 +16,8 @@
 
 ---
 
+<h3>🚀 Habilidades e Ferramentas</h3>
 <div align="center">
-  <h3>🚀 Habilidades e Ferramentas</h3>
   <table>
     <tr>
       <td align="center"><strong>Linguagens</strong></td>
