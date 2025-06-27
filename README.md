@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Olá 👋, eu sou o Rodrigo Cunha</h1>
-  <h3>Explorando tecnologia, automação e soluções sustentáveis</h3>
+  <h1>💻🌱 🛰️📡👻🐚</h1>
+  <h1>Olá 👋, eu sou Rodrigo Cunha de Cerqueira César</h1>
+  <h3>Explorando Tecnologia, Automação e Soluções Sustentáveis</h3>
 </div>
 
 <div align="center">
@@ -9,42 +10,43 @@
 
 <br>
 
-- 🚀 Atualmente aprofundando meus conhecimentos em **Arquitetura de Software, Node.js e Data Modeling**.
-- 💬 Vamos conversar sobre **Fluxos de Automação, Servidores Web, Python e Inovações Ecológicas**.
+- 🚀 Atualmente aprofundando meus conhecimentos em **Arquitetura de Software, IoT e Modelagem de Dados**.
+- 💬 Vamos conversar sobre **Fluxos de Automação, Servidores Web e Sistemas Embarcados**.
 - 📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
 - ⚡ Curiosidade: Engenheiro, apaixonado por ficção científica, artes marciais e tecnologia sustentável.
 
 ---
 
-### 🚀 Habilidades e Ferramentas
-
-<table>
-  <tr>
-    <td align="center"><strong>Linguagens</strong></td>
-    <td align="center"><strong>Backend & Databases</strong></td>
-    <td align="center"><strong>Ferramentas & Plataformas</strong></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br>Node.js</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br>TypeScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express" /><br>Express</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br>Python</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" alt="GitHub" /><br>GitHub</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /><br>HTML5</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /><br>MongoDB</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40" alt="n8n" /><br>n8n</td>
-  </tr>
-</table>
+<div align="center">
+  <h3>🚀 Habilidades e Ferramentas</h3>
+  <table>
+    <tr>
+      <td align="center"><strong>Linguagens</strong></td>
+      <td align="center"><strong>Backend & Databases</strong></td>
+      <td align="center"><strong>Ferramentas & Plataformas</strong></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br>TypeScript</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br>Node.js</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" /><br>Express</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /><br>MongoDB</td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br>Python</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git</td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /><br>C++</td>
+      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" alt="n8n" /><br>n8n</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /><br>GitHub</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
