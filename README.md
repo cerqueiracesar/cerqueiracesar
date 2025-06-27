@@ -16,7 +16,7 @@
 
 ---
 
-<h3>🚀 Habilidades e Ferramentas</h3>
+<h3>🚀 Habilidades e Ferramentas:</h3>
 <div align="center">
   <table>
     <tr>
