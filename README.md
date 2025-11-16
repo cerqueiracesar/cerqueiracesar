@@ -12,7 +12,7 @@
 - 🚀 Atualmente aprofundando meus conhecimentos em **Arquitetura de Software, IoT e Modelagem de Dados**.
 - 💬 Vamos conversar sobre **Automação de Redes, Servidores Web e Sistemas Embarcados**.
 - 📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
-- ⚡ Curiosidade: Engenheiro, surfista de longboard, apaixonado por ficção científica e tecnologias sustentáveis.
+- ⚡ Curiosidade: Surfista de longboard, apaixonado por ficção científica e tecnologias sustentáveis.
 
 ---
 
