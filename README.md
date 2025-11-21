@@ -49,7 +49,7 @@
     <tr align="center">
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript / TS</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.sv" width="40" alt="Express" /><br>Express.js</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" /><br>Express.js</td>
     </tr>
   </table>
 </div>
