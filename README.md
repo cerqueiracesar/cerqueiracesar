@@ -21,8 +21,6 @@
 
 🏄🏾‍♂️ Curiosidade: Surfista de longboard, apaixonado por ficção científica.
 
-https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f3c4-1f3fd-2642.svg
-
 ---
 
 <h3>🚀 Habilidades e Ferramentas</h3>
