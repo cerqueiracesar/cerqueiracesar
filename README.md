@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou Rodrigo Cunha de Cerqueira César </h1>
+  <h1>Olá, eu sou Rodrigo C. Cerqueira César </h1>
   <h3>Engenheiro Civil | Analista de Dados em Formação.</h3>
 </div>
 
