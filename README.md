@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou Rodrigo C. Cerqueira César </h1>
+  <h1>Olá, eu sou Rodrigo C. Cerqueira César 🐚</h1>
   <h3>Engenheiro Civil | Analista de Dados em Formação.</h3>
 </div>
 
@@ -19,7 +19,9 @@
 
 📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
 
-🌊 Curiosidade: Surfista de longboard, apaixonado por ficção científica.
+🏄🏾‍♂️ Curiosidade: Surfista de longboard, apaixonado por ficção científica.
+
+https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f3c4-1f3fd-2642.svg
 
 ---
 
