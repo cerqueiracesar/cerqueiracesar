@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=cerqueiracesar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </div>
 
-<h3>Meu laboratório de código, focado na intersecção entre Data Science, Automação e Soluções Sustentáveis.</h3>
+<h3>Automação e Soluções Sustentáveis.</h3>
 
 <br>
 
