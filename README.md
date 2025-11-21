@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>OlⒶ, eu sou Rodrigo Cunha de Cerqueira César 🏴‍☠️</h1>
+  <h1>Olá, eu sou Rodrigo Cunha de Cerqueira César </h1>
   <h3>Engenheiro Civil | Analista de Dados em Formação.</h3>
 </div>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-🚀 Foco: Atualmente desenvolvendo projetos end-to-end (ETL + Dashboard) utilizando bases de dados públicas para o setor de Saneamento Básico (Ex: SNIS) e análise de performance de projetos de infraestrutura.
+⚡ Foco: Atualmente desenvolvendo projetos end-to-end (ETL + Dashboard) utilizando bases de dados públicas para o setor de Saneamento Básico (Ex: SNIS) e análise de performance de projetos de infraestrutura.
 
 🛠️ Tech Stack: Python (Pandas/NumPy), SQL (PostgreSQL/SQLite), Power BI, Nodejs, Docker.
 
@@ -19,7 +19,7 @@
 
 📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
 
-⚡ Curiosidade: Surfista de longboard, apaixonado por ficção científica.
+🌊 Curiosidade: Surfista de longboard, apaixonado por ficção científica.
 
 ---
 
