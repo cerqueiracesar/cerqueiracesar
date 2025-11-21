@@ -13,7 +13,7 @@
 
 ⚡ Foco: Atualmente desenvolvendo projetos end-to-end (ETL + Dashboard) utilizando bases de dados públicas para o setor de Saneamento Básico (Ex: SNIS) e análise de performance de projetos de infraestrutura.
 
-🛠️ Tech Stack: Python (Pandas/NumPy), SQL (PostgreSQL/SQLite), Power BI, Nodejs, Docker.
+🛠️ Tech Stack: Python(Pandas), SQL(PostgreSQL), Power BI, Nodejs, Docker.
 
 💬 Vamos conversar sobre Modelagem de Dados em contextos de Engenharia, Automação de Fluxos (n8n) e Estratégias para a implementação de uma gestão orientada por dados (Data-Driven).
 
@@ -32,12 +32,12 @@
       <td align="center"><strong>Desenvolvimento & Automação</strong></td>
     </tr>
     <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br>Python (Pandas)</td>
+      <td><img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="40" alt="Python" /><br>Pandas</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
     </tr>
     <tr align="center">
-      <td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiNmZmMxMDciIGQ9Ik00MCw0MUg4Yy0yLjIwNiwwLTQtMS43OTQtNC00VjExYzAtMi4yMDYsMS43OTQtNCw0LTRoMzJjMi4yMDYsMCw0LDEuNzk0LDQsNHYyNglDNDQsMzkuMjA2LDQyLjIwNiw0MSw0MCw0MXoiLz48cGF0aCBmaWxsPSIjMjEyMTIxIiBkPSJNMzQsMTIuOThIMTQuMDJjLTIuMiwwLTQsMS43OS00LDRWMzBjMCwxLjg2LDEuMjcsMy40MiwyLjk4LDMuODZ2LTIuMTQJYy0wLjU5LTAuMzUtMC45OC0wLjk5LTAuOTgtMS43MlYxNi45OGMwLTEuMSwwLjktMiwyLTJIMzRjMS4xLDAsMiwwLjksMiwyVjMwYzAsMC43NC0wLjQsMS4zOC0xLDEuNzN2Mi4xNGMxLjczLTAuNDQsMy0yLjAxLDMtMy44NwlWMTYuOThDMzgsMTQuNzcsMzYuMjEsMTIuOTgsMzQsMTIuOTh6Ii8+PHBhdGggZmlsbD0iIzIxMjEyMSIgZD0iTTE2LjUsMjhMMTYuNSwyOGMwLjgyOCwwLDEuNSwwLjY3MiwxLjUsMS41djVjMCwwLjgyOC0wLjY3MiwxLjUtMS41LDEuNWwwLDAJYy0wLjgyOCwwLTEuNS0wLjY3Mi0xLjUtMS41di01QzE1LDI4LjY3MiwxNS42NzIsMjgsMTYuNSwyOHoiLz48cGF0aCBmaWxsPSIjMjEyMTIxIiBkPSJNMjEuNSwyMkwyMS41LDIyYzAuODI4LDAsMS41LDAuNjcyLDEuNSwxLjV2MTFjMCwwLjgyOC0wLjY3MiwxLjUtMS41LDEuNWwwLDAJYy0wLjgyOCwwLTEuNS0wLjY3Mi0xLjUtMS41di0xMUMyMCwyMi42NzIsMjAuNjcyLDIyLDIxLjUsMjJ6Ii8+PHBhdGggZmlsbD0iIzIxMjEyMSIgZD0iTTI2LjUsMjVMMjYuNSwyNWMwLjgyOCwwLDEuNSwwLjY3MiwxLjUsMS41djhjMCwwLjgyOC0wLjY3MiwxLjUtMS41LDEuNWwwLDAJYy0wLjgyOCwwLTEuNS0wLjY3Mi0xLjUtMS41di04QzI1LDI1LjY3MiwyNS42NzIsMjUsMjYuNSwyNXoiLz48cGF0aCBmaWxsPSIjMjEyMTIxIiBkPSJNMzEuNSwxOEwzMS41LDE4YzAuODI4LDAsMS41LDAuNjcyLDEuNSwxLjV2MTVjMCwwLjgyOC0wLjY3MiwxLjUtMS41LDEuNWwwLDAJYy0wLjgyOCwwLTEuNS0wLjY3Mi0xLjUtMS41di0xNUMzMCwxOC42NzIsMzAuNjcyLDE4LDMxLjUsMTh6Ii8+PC9zdmc+" width="40" alt="Power BI" /><br>Power BI / Tableau</td>
+      <td><img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="40" alt="Power BI" /><br>Power BI</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br>Node.js</td>
     </tr>
@@ -49,7 +49,7 @@
     <tr align="center">
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript / TS</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express" /><br>Express.js</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.sv" width="40" alt="Express" /><br>Express.js</td>
     </tr>
   </table>
 </div>
