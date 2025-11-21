@@ -27,35 +27,34 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Análise de Dados & Linguagens</strong></td>
+      <td align="center"><strong>Análise de Dados & ETL</strong></td>
       <td align="center"><strong>Bancos de Dados & SQL</strong></td>
       <td align="center"><strong>Desenvolvimento & Automação</strong></td>
     </tr>
     <tr align="center">
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br>Python (Pandas)</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40" alt="Power BI" /><br>Power BI / Tableau</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br>Node.js</td>
     </tr>
     <tr align="center">
-      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40" alt="Power BI" /><br>Power BI / Tableau</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /><br>MongoDB</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript / TypeScript</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript / TS</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
       <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" alt="n8n" /><br>n8n (Automação)</td>
     </tr>
     <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /><br>C++ (Algoritmos)</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" /><br>Linux / Shell</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" /><br>R (Estatística)</td>
+      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" width="40" alt="SQLite" /><br>SQLite</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" /><br>Express.js</td>
     </tr>
   </table>
 </div>
 
 ---
-
 ### 📊 Minhas Estatísticas no GitHub:
 <div align="center">
   <a href="https://github.com/cerqueiracesar">
