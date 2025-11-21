@@ -32,7 +32,7 @@
       <td align="center"><strong>Desenvolvimento & Automação</strong></td>
     </tr>
     <tr align="center">
-      <td><img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="40" alt="Python" /><br>Pandas</td>
+      <td><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="40" alt="Python" /><br>Pandas</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
     </tr>
