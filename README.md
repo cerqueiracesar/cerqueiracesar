@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, eu sou Rodrigo C. Cerqueira César 🐚</h1>
-  <h3>Programador Backend Jr. | Engenheiro Civil</h3>
+  <h1>Olá, eu sou Rodrigo C. Cerqueira César</h1>
+  <h3>💻 Desenvolvedor Backend (Node.js/TS) | ☁️ Arquiteto de Soluções | ⚙️ Engenharia Civil</h3>
 </div>
 
 <div align="center">
@@ -11,15 +11,20 @@
 
 <br>
 
-⚡ Foco: Atualmente dedicado à criação de projetos end-to-end em Node.js/TypeScript, focando em arquitetura de microsserviços e integração de modelos de IA para tarefas de scripting e análise de dados estruturados.
+## 💡 Sobre o Foco e a Stack
+Minha experiência como Engenheiro Civil e em fiscalização me equipou com uma forte mentalidade analítica, que aplico no desenvolvimento de software. Sou especializado em **Arquitetura Backend** (Node.js/TS) e no design de **Microsserviços**.
 
-🛠️ Foco no Próximo Projeto: Implementar um agente de automação que processa dados de fiscalização e gera relatórios via API (Node.js/Express).
+⚡ **Foco Principal:** Construir soluções resilientes, com base em **Infraestrutura Cloud**, e desenvolver **Agentes de IA** e Automações (n8n/Python) que transformam dados complexos de engenharia e processos fiscais em APIs e *insights*.
+
+🛠️ **Próximos Passos:** Implementar um agente de automação que processa dados de fiscalização e gera relatórios via API (Node.js/Express) e aprofundamento em **AWS/Cloud**.
+
+<br>
 
 💬 Vamos conversar sobre **Arquitetura de Software**, desenvolvimento de APIs e como integrar IA para resolver gargalos operacionais.
 
 📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
 
-🏄🏾‍♂️ Curiosidade: Surfista de longboard, apaixonado por ficção científica.
+🏄‍♂️ Curiosidade: Surfista de longboard, apaixonado por ficção científica.
 
 ---
 
