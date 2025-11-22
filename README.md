@@ -48,7 +48,7 @@
     </tr>
     <tr align="center">
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" /><br>Jupyter Notebooks</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /><br>React (Frontend)</td>
       <td><img src="https://cdn.simpleicons.org/sqlite/003B57/FFFFFF" width="40" alt="SQLite" /><br>SQLite</td>
     </tr>
   </table>
