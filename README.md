@@ -15,7 +15,7 @@
 
 🛠️ Foco no Próximo Projeto: Implementar um agente de automação que processa dados de fiscalização e gera relatórios via API (Node.js/Express).
 
-💬 Vamos conversar sobre **Arquitetura de Software**, desenvolvimento de APIs e como integrar IA para resolver gargalos operacionais em Engenharia.
+💬 Vamos conversar sobre **Arquitetura de Software**, desenvolvimento de APIs e como integrar IA para resolver gargalos operacionais.
 
 📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
 
