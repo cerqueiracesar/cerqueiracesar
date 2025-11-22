@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Rodrigo C. Cerqueira César 🐚</h1>
-  <h3>Desenvolvedor Jr. Backend (Node.js/TS) | Engenheiro Civil</h3>
+  <h3>Desenvolvedor Jr. | Engenheiro Civil</h3>
 </div>
 
 <div align="center">
