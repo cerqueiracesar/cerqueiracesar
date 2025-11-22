@@ -27,33 +27,30 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Desenvolvimento Backend</strong></td>
-      <td align="center"><strong>Automação & IA</strong></td>
-      <td align="center"><strong>Dados & Infraestrutura</strong></td>
+      <td align="center"><strong>🚀 Core Stack (Linguagens)</strong></td>
+      <td align="center"><strong>💻 Frameworks & Automação</strong></td>
+      <td align="center"><strong>💾 Dados & Infraestrutura</strong></td>
     </tr>
     <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br>Node.js</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br>TypeScript</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br>Node.js</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
     </tr>
     <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express" /><br>Express.js</td>
-      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" alt="n8n" /><br>n8n (Automação)</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
     </tr>
     <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br>Python (Scripts/IA)</td>
+      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" alt="n8n" /><br>n8n (Automação)</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</td>
     </tr>
     <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" /><br>Jupyter Notebooks</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
       <td><img src="https://cdn.simpleicons.org/sqlite/003B57/FFFFFF" width="40" alt="SQLite" /><br>SQLite</td>
     </tr>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" alt="Tableau" /><br>Visualização BI</td>
-      <td></td> <td></td> </tr>
   </table>
 </div>
 
