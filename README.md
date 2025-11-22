@@ -42,15 +42,18 @@
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
     </tr>
     <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br>Python (Scripts/IA)</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</td>
     </tr>
     <tr align="center">
-      <td><img src="https://cdn.simpleicons.org/sqlite/003B57/FFFFFF" width="40" alt="SQLite" /><br>SQLite</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" /><br>Jupyter Notebooks</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br>Git / Versionamento</td>
+      <td><img src="https://cdn.simpleicons.org/sqlite/003B57/FFFFFF" width="40" alt="SQLite" /><br>SQLite</td>
     </tr>
+    <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" alt="Tableau" /><br>Visualização BI</td>
+      <td></td> <td></td> </tr>
   </table>
 </div>
 
