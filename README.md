@@ -6,59 +6,64 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cerqueiracesar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </div>
+# Hi there, I'm Rodrigo C. Cerqueira César 👋
 
-<h3>Automação, Agentes de IA e Soluções para Infraestrutura.</h3>
+### Software Engineer | Backend Focus (Node.js/TS) | Former Civil Engineer
 
-<br>
-
-## 💡 Sobre o Foco e a Stack
-Minha experiência como Engenheiro Civil e em fiscalização me equipou com uma forte mentalidade analítica, que aplico no desenvolvimento de software. Sou especializado em **Arquitetura Backend** (Node.js/TS) e no design de **Microsserviços**.
-
-⚡ **Foco Principal:** Construir soluções resilientes, com base em **Infraestrutura Cloud**, e desenvolver **Agentes de IA** e Automações (n8n/Python) que transformam dados complexos de engenharia e processos fiscais em APIs e *insights*.
-
-🛠️ **Próximos Passos:** Implementar um agente de automação que processa dados de fiscalização e gera relatórios via API (Node.js/Express) e aprofundamento em **AWS/Cloud**.
-
-<br>
-
-💬 Vamos conversar sobre **Arquitetura de Software**, desenvolvimento de APIs e como integrar IA para resolver gargalos operacionais.
-
-📫 Fale comigo por **[Email](mailto:rodjncsar@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/rodcerqcsar)**.
-
-🏄‍♂️ Curiosidade: Surfista de longboard, apaixonado por ficção científica.
+> *Leveraging an engineering background to build robust, scalable, and automated software solutions.*
 
 ---
 
-<h3>🚀 Habilidades e Ferramentas</h3>
+### 👨‍💻 About Me
+
+Transitioning from **Civil Engineering** to **Software Engineering** wasn't just a career change; it was a shift in applying my analytical mindset. Years of managing complex infrastructure projects taught me precision, reliability, and the importance of a solid foundation—principles I now apply to code.
+
+I specialize in **Backend Development** using **Node.js, TypeScript, and SQL**. I don't just write code; I design architectures that solve real business problems, focusing on **performance, clean code (SOLID), and cloud infrastructure**.
+
+---
+
+### 🚀 Tech Stack & Toolkit
+
+Here is the technology stack I use to build scalable applications:
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend Core** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) |
+| **Database & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Automation & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white) |
+
+---
+
+### 🔭 Current Focus: Enterprise E-commerce API
+
+I am currently architecting a high-performance backend API designed to handle complex e-commerce scenarios.
+* **Goal:** Simulate a real-world high-traffic environment.
+* **Key Tech:** NestJS, PostgreSQL (ACID transactions for inventory), Redis (Caching strategies), and Dockerized deployment.
+* **Status:** *In active development (Check my repositories).*
+
+---
+
+### ⚡ Engineering Philosophy
+
+* **Reliability:** Just like in civil construction, software needs a solid foundation. I prioritize testing (TDD/Jest) and error handling.
+* **Efficiency:** I use automation (n8n/Scripts) to eliminate repetitive tasks and optimize workflows.
+* **Growth:** Currently deepening my knowledge in **System Design** and **Cloud Architecture (AWS)**.
+
+---
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>🚀 Core Stack (Linguagens)</strong></td>
-      <td align="center"><strong>💻 Frameworks & Automação</strong></td>
-      <td align="center"><strong>💾 Dados & Infraestrutura</strong></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br>TypeScript</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br>Node.js</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express" /><br>Express.js</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br>Python (Scripts/IA)</td>
-      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" alt="n8n" /><br>n8n (Automação)</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" /><br>Jupyter Notebooks</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /><br>React (Frontend)</td>
-      <td><img src="https://cdn.simpleicons.org/sqlite/003B57/FFFFFF" width="40" alt="SQLite" /><br>SQLite</td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
+<p align="center">
+  <i>🌊 Fun fact: When I'm not coding or architecting systems, I'm surfing longboards or reading classic Sci-Fi.</i>
+</p>
 ---
 ### 📊 Minhas Estatísticas no GitHub:
 <div align="center">
