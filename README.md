@@ -1,22 +1,17 @@
 <div align="center">
-  <h1>Olá, eu sou Rodrigo C. Cerqueira César</h1>
-  <h3>💻 Desenvolvedor Backend (Node.js/TS) | ☁️ Arquiteto de Soluções | ⚙️ Engenharia Civil</h3>
+  <h1>Hi there, I'm Rodrigo C. Cerqueira César</h1> 👋
+ 💻   ### Software Engineer | ☁️ Backend Focus (Node.js/TS) | ⚙️ Former Civil Engineer
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cerqueiracesar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </div>
-# Hi there, I'm Rodrigo C. Cerqueira César 👋
-
-### Software Engineer | Backend Focus (Node.js/TS) | Former Civil Engineer
-
 > *Leveraging an engineering background to build robust, scalable, and automated software solutions.*
-
 ---
 
 ### 👨‍💻 About Me
 
-Transitioning from **Civil Engineering** to **Software Engineering** wasn't just a career change; it was a shift in applying my analytical mindset. Years of managing complex infrastructure projects taught me precision, reliability, and the importance of a solid foundation—principles I now apply to code.
+Transitioning from **Civil Engineering** to **Software Engineering** wasn't just a career change; it was a shift in applying my analytical mindset. Years of managing infrastructure projects taught me precision, reliability, and the importance of a solid foundation—principles I now apply to code.
 
 I specialize in **Backend Development** using **Node.js, TypeScript, and SQL**. I don't just write code; I design architectures that solve real business problems, focusing on **performance, clean code (SOLID), and cloud infrastructure**.
 
@@ -53,10 +48,10 @@ I am currently architecting a high-performance backend API designed to handle co
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/rodcerqcsar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:rodjncsar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
