@@ -73,13 +73,6 @@ I am currently architecting a high-performance backend API designed to handle co
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=cerqueiracesar&theme=dracula" alt="GitHub Streak"/>
-  </a>    
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/cerqueiracesar/cerqueiracesar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
