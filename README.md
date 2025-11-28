@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Rodrigo C. Cerqueira César 👋</h1>
-  <h3>💻 Software Engineer Student | ☁️ Backend Focus (Node.js/TS) | ⚙️ Former Civil Engineer</h3>
+  <h3>💻 Student in Systems Analysis and Development | ☁️ Backend Focus (Node.js/TS) | ⚙️ Former Civil Engineer</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=cerqueiracesar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
