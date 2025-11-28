@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-Transitioning from **Civil Engineering** to **Software Engineering** wasn't just a career change; it was a shift in how I apply my analytical mindset. Years of managing complex infrastructure projects taught me precision, reliability, and the importance of a solid foundation—principles I now translate into code.
+Transitioning from **Civil Engineering** to **Software Developer** wasn't just a career change; it was a shift in how I apply my analytical mindset. Years of managing complex infrastructure projects taught me precision, reliability, and the importance of a solid foundation—principles I now translate into code.
 
 I specialize in **Backend Development** using **Node.js, TypeScript, and SQL**. I don't just write code; I design architectures that solve real business problems, prioritizing **performance, SOLID principles, and cloud infrastructure**.
 
