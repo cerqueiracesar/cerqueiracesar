@@ -6,22 +6,20 @@
     <img src="https://komarev.com/ghpvc/?username=cerqueiracesar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   </p>
 
-  > *De estruturas de concreto para estruturas de dados: aplicando o rigor da engenharia civil na construção de pipelines de dados escaláveis e confiáveis.*
+  > *From concrete structures to data structures: applying the rigor of civil engineering to the construction of scalable and reliable data pipelines.*
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-[cite_start]Com 10 anos de base acadêmica e profissional na **Engenharia Civil** [cite: 34][cite_start], estou transicionando para a **Engenharia de Dados** através da graduação em ADS[cite: 10]. [cite_start]Minha jornada é guiada pela paixão em transformar dados brutos em ativos estratégicos, utilizando uma mentalidade analítica moldada por projetos de infraestrutura urbana e saneamento[cite: 45, 60].
-
-[cite_start]Atualmente, foco na construção de **Pipelines de Dados (ETL/ELT)**, **Modelagem Dimensional** e na automação inteligente de fluxos utilizando **IA e n8n**[cite: 10, 39].
+With a 10-year academic and professional foundation in Civil Engineering , I am transitioning into Data Engineering through my degree in Systems Analysis and Development (ADS). My journey is driven by a passion for transforming raw data into strategic assets, utilizing an analytical mindset shaped by urban infrastructure and sanitation projects. Currently, I focus on building Data Pipelines (ETL/ELT), Dimensional Modeling, and intelligent workflow automation using AI and n8n.
 
 ---
 
 ### 🚀 Tech Stack & Data Toolkit
 
-Minha stack é focada em ferramentas que garantem a fluidez, integridade e governança dos dados:
+My stack is focused on tools that ensure data fluidity, integrity, and governance:
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -34,17 +32,17 @@ Minha stack é focada em ferramentas que garantem a fluidez, integridade e gover
 
 ### 🔭 Featured Data Projects
 
-* [cite_start]**[SafeSite App](https://github.com/cerqueiracesar/safesite-app):** Pipeline de dados não-estruturados utilizando **IA (Gemini)** para extração semântica e classificação de riscos em tempo real[cite: 24, 26].
-* [cite_start]**[Data Ingestion API](https://github.com/cerqueiracesar):** Arquitetura de ingestão de eventos de e-commerce com alta disponibilidade, utilizando **Redis** como buffer e **PostgreSQL** para persistência estruturada[cite: 15, 16].
-* [cite_start]**[Geo-Optimization System](https://github.com/cerqueiracesar):** Legado de inteligência geográfica focado em otimização algorítmica de frotas e análise espacial de dados[cite: 59, 60].
+* **[SafeSite App](https://github.com/cerqueiracesar/safesite_app):** An unstructured data pipeline leveraging **GenAI (Gemini)** for semantic extraction and real-time risk classification.
+* **[Data Ingestion API](https://github.com/cerqueiracesar/enterprise-ecommerce-api):** High-availability event ingestion architecture for e-commerce, using **Redis** as a buffer and **PostgreSQL** for structured persistence.
+* **[Geo-Optimization System](https://github.com/cerqueiracesar):** Geographic intelligence legacy focused on algorithmic fleet optimization and spatial data analysis.
 
 ---
 
 ### ⚡ Data Engineering Philosophy
 
-* [cite_start]**Data Quality:** Assim como no saneamento, dados precisam ser tratados e limpos antes do consumo[cite: 45, 48].
-* **Observabilidade:** Monitoramento constante de pipelines para evitar falhas silenciosas.
-* [cite_start]**Versatilidade:** Experiência com dados geoespaciais, financeiros e técnicos[cite: 53, 59].
+* **Data Quality:** Just like in sanitation, data must be treated and cleaned before consumption.
+* **Observability:** Constant monitoring of pipelines to prevent silent failures.
+* **Versatility:** Experience handling geospatial, financial, and technical datasets.
 
 ---
 
@@ -58,7 +56,7 @@ Minha stack é focada em ferramentas que garantem a fluidez, integridade e gover
 </div>
 
 <p align="center">
-  <i>🌊 Fun fact: Quando não estou otimizando fluxos de dados, estou surfando de longboard na Leste-Oeste ou explorando distopias clássicas de Sci-Fi.</i>
+  <i>🌊 Fun fact: When I'm not optimizing data flows, I'm longboard surfing or reading classic Sci-Fi.</i>
 </p>
 
 ---
@@ -70,4 +68,14 @@ Minha stack é focada em ferramentas que garantem a fluidez, integridade e gover
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cerqueiracesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerqueiracesar&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+</div>
+
+<br>
+
+
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/cerqueiracesar/cerqueiracesar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
