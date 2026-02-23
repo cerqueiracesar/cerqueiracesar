@@ -1,51 +1,50 @@
 <div align="center">
   <h1>Hi there, I'm Rodrigo C. Cerqueira César 👋</h1>
-  <h3>💻 Student in Systems Analysis and Development | ☁️ Backend Focus (Node.js/TS) | ⚙️ Former Civil Engineer</h3>
+  <h3>📊 Aspiring Data Engineer | ⚙️ Former Civil Engineer | 🐍 Python & SQL Enthusiast</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=cerqueiracesar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   </p>
 
-  > *Leveraging an engineering background to build robust, scalable, and automated software solutions.*
+  > *De estruturas de concreto para estruturas de dados: aplicando o rigor da engenharia civil na construção de pipelines de dados escaláveis e confiáveis.*
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Transitioning from **Civil Engineering** to **Software Developer** wasn't just a career change; it was a shift in how I apply my analytical mindset. Years of managing complex infrastructure projects taught me precision, reliability, and the importance of a solid foundation—principles I now translate into code.
+[cite_start]Com 10 anos de base acadêmica e profissional na **Engenharia Civil** [cite: 34][cite_start], estou transicionando para a **Engenharia de Dados** através da graduação em ADS[cite: 10]. [cite_start]Minha jornada é guiada pela paixão em transformar dados brutos em ativos estratégicos, utilizando uma mentalidade analítica moldada por projetos de infraestrutura urbana e saneamento[cite: 45, 60].
 
-I specialize in **Backend Development** using **Node.js, TypeScript, and SQL**. I don't just write code; I design architectures that solve real business problems, prioritizing **performance, SOLID principles, and cloud infrastructure**.
+[cite_start]Atualmente, foco na construção de **Pipelines de Dados (ETL/ELT)**, **Modelagem Dimensional** e na automação inteligente de fluxos utilizando **IA e n8n**[cite: 10, 39].
 
 ---
 
-### 🚀 Tech Stack & Toolkit
+### 🚀 Tech Stack & Data Toolkit
 
-Here is the technology stack I use to build scalable applications:
+Minha stack é focada em ferramentas que garantem a fluidez, integridade e governança dos dados:
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend Core** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) |
-| **Database & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Automation & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) |
+| **Data & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Orchestration & Infrastructure** | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **AI & Semantic Processing** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-E72D2D?style=flat-square&logo=arcgis&logoColor=white) |
 
 ---
 
-### 🔭 Current Focus: Enterprise E-commerce API
+### 🔭 Featured Data Projects
 
-I am currently architecting a high-performance backend API designed to handle complex e-commerce scenarios.
-* **Goal:** Simulate a real-world high-traffic environment.
-* **Key Tech:** NestJS, PostgreSQL (ACID transactions for inventory), Redis (Caching strategies), and Dockerized deployment.
-* **Status:** *In active development (Check my repositories).*
+* [cite_start]**[SafeSite App](https://github.com/cerqueiracesar/safesite-app):** Pipeline de dados não-estruturados utilizando **IA (Gemini)** para extração semântica e classificação de riscos em tempo real[cite: 24, 26].
+* [cite_start]**[Data Ingestion API](https://github.com/cerqueiracesar):** Arquitetura de ingestão de eventos de e-commerce com alta disponibilidade, utilizando **Redis** como buffer e **PostgreSQL** para persistência estruturada[cite: 15, 16].
+* [cite_start]**[Geo-Optimization System](https://github.com/cerqueiracesar):** Legado de inteligência geográfica focado em otimização algorítmica de frotas e análise espacial de dados[cite: 59, 60].
 
 ---
 
-### ⚡ Engineering Philosophy
+### ⚡ Data Engineering Philosophy
 
-* **Reliability:** Just like in civil construction, software needs a solid foundation. I prioritize testing (TDD/Jest) and error handling.
-* **Efficiency:** I use automation (n8n/Scripts) to eliminate repetitive tasks and optimize workflows.
-* **Growth:** Currently deepening my knowledge in **System Design** and **Cloud Architecture (AWS)**.
+* [cite_start]**Data Quality:** Assim como no saneamento, dados precisam ser tratados e limpos antes do consumo[cite: 45, 48].
+* **Observabilidade:** Monitoramento constante de pipelines para evitar falhas silenciosas.
+* [cite_start]**Versatilidade:** Experiência com dados geoespaciais, financeiros e técnicos[cite: 53, 59].
 
 ---
 
@@ -59,7 +58,7 @@ I am currently architecting a high-performance backend API designed to handle co
 </div>
 
 <p align="center">
-  <i>🌊 Fun fact: When I'm not coding or architecting systems, I'm surfing longboards or reading classic Sci-Fi.</i>
+  <i>🌊 Fun fact: Quando não estou otimizando fluxos de dados, estou surfando de longboard na Leste-Oeste ou explorando distopias clássicas de Sci-Fi.</i>
 </p>
 
 ---
@@ -71,9 +70,4 @@ I am currently architecting a high-performance backend API designed to handle co
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cerqueiracesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerqueiracesar&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cerqueiracesar/cerqueiracesar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
